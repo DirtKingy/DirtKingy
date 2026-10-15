@@ -21,5 +21,6 @@ An application scrum engine engineered to resolve nested dom paradoxes within mu
 
 #### 🔗 [C++ Console Math Game](https://github.com/DirtKingy/cpp_terminal_math_game)
 A terminal game used to teach myself the wonderful world of C++.
+* **Core Achievement:** Got me started on wanting to learn C++ and overall software engineering in low level languages
 
 ---
