@@ -1,32 +1,25 @@
-# 🏗️ Backend-Focused Software Architect & Engineer
+# 🏗️ Backend-Focused Software Developer
 
-Backend engineer committed to designing robust, fault-tolerant system architectures and enforcing strict data integrity. Highly driven by system logic, architectural paradigms, and solving complex technical debt. Frameworks are merely implementation details; the true value of software lies in proper system design.
+Backend developer that has experience with fault-tolerant architecture and enforcing data integrity. Driven by logic and senior feedback loops to learn, architectural puzzles, and crunching the brain to solve stuff. Frameworks are merely implementation details; the true value of software lies in proper architecture.
 
 ---
 
 ### 🚀 Key Architectural Focus Areas
 
-* **Data Integrity & State Consistency:** Specializing in eliminating data-mutation anomalies and wildgrowth in complex data structures. Experienced in transitioning erratic data flows into predictable, deterministic systems by architecting strict **Single Source of Truth (SSoT)** layers.
-* **System Design & Communication Patterns:** Designing event-driven, decoupled system layers utilizing **CQRS-lite** paradigms. Focused on asynchronous event flows, latency reduction, and race-condition mitigation across real-time synchronization pipelines.
-* **Infrastructure & Storage Architecture:** Structuring relational databases, designing event streams via real-time database hooks/WebSockets, and refactoring legacy monolith constraints into lean, maintainable subsystems.
+* **Data Integrity & State Consistency:** Experienced in eliminating data-mutation bugs and wildgrowth in complex data structures and in transitioning erratic data flows into predictable, deterministic systems by architecting strict **Single Source of Truth (SSoT)** layers.
+* **Design & Communication Patterns:** Designing event-driven, decoupled system layers utilizing **CQRS-lite**. Focused on asynchronous event flows, and race-condition mitigation.
+* **Infrastructure & Storage Architecture:** Structuring relational databases, designing event streams via real-time database hooks/WebSockets, and refactoring messes into lean, maintainable subsystems.
 
 ---
 
-### 🛡️ Production Philosophy: "Fixing What Matters"
-
-I deliberately seek out the intricate, heavily integrated legacy systems and deep technical debt that senior architects lack the bandwidth to refactor. Diving into edge-case anomalies, analyzing asynchronous bottlenecks, and restructuring data layers is my preferred method to rapidly master an ecosystem and build bulletproof infrastructure.
-
----
-
-### 📊 Featured Architectural Showcase
+### 📊 Featured Architectural Showcases
 
 #### 🔗 [Distributed State & Event-Driven Scrum Engine](https://github.com/dirtkingy/scrum)
-An isolated application engine engineered to resolve nested synchronization paradoxes within multi-layered hierarchical tree structures.
+An application scrum engine engineered to resolve nested dom paradoxes within multi-layered tree structures.
 * **Core Achievement:** Enforced a strictly unidirectional data flow by treating the view layer as read-only. Blocked direct DOM/UI mutations, routing all interactions as execution-requests through a decoupled central store to safeguard persistent database states against race conditions.
-* **Data Strategy:** Engineered asynchronous updates mapping real-time cloud infrastructure hooks seamlessly into the client-side environment.
+* **Data Strategy:** Engineered asynchronous updates mapping real-time SupaBase infrastructure hooks into the client-side environment.
+
+#### 🔗 [C++ Console Math Game](https://github.com/DirtKingy/cpp_terminal_math_game)
+A terminal game used to teach myself the wonderful world of C++.
 
 ---
-
-### 📬 Let's Talk System Design
-* **Availability:** Open for core application, platform, and backend infrastructure engineering roles starting **September 1, 2026**.
-* **Location Strategy:** Looking to make an impact within high-throughput fintech and transactional ecosystems.
